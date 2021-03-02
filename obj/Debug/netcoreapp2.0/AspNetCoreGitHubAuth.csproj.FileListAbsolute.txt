@@ -1,0 +1,15 @@
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\bin\Debug\netcoreapp2.0\AspNetCoreGitHubAuth.deps.json
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\bin\Debug\netcoreapp2.0\AspNetCoreGitHubAuth.runtimeconfig.json
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\bin\Debug\netcoreapp2.0\AspNetCoreGitHubAuth.runtimeconfig.dev.json
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\bin\Debug\netcoreapp2.0\AspNetCoreGitHubAuth.dll
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\bin\Debug\netcoreapp2.0\AspNetCoreGitHubAuth.pdb
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\obj\Debug\netcoreapp2.0\AspNetCoreGitHubAuth.csprojAssemblyReference.cache
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\obj\Debug\netcoreapp2.0\AspNetCoreGitHubAuth.AssemblyInfoInputs.cache
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\obj\Debug\netcoreapp2.0\AspNetCoreGitHubAuth.AssemblyInfo.cs
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\obj\Debug\netcoreapp2.0\AspNetCoreGitHubAuth.csproj.CoreCompileInputs.cache
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\obj\Debug\netcoreapp2.0\AspNetCoreGitHubAuth.dll
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\obj\Debug\netcoreapp2.0\AspNetCoreGitHubAuth.pdb
+C:\Users\Nino\Source\Repos\AspnetCoreGitHubAuth_22\AspNetCoreGitHubAuth\obj\Debug\netcoreapp2.0\AspNetCoreGitHubAuth.genruntimeconfig.cache
